@@ -13,3 +13,4 @@ From repository added this comment at 8:07
 Git from home repository example for conflict
 Git conflicts example at 8:10
 After conflit modification onre comment
+from git hub added at 10:24
