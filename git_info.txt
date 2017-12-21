@@ -11,3 +11,5 @@ second hub added at 8:05
 Third hub added at 8:06
 From repository added this comment at 8:07
 Git from home repository example for conflict
+Git conflicts example at 8:10
+After conflit modification onre comment
