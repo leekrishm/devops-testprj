@@ -26,4 +26,3 @@ Example 1
 Example 2
 Adding data to second branch
 Merged to first_branch and added again to second_branch
-example for revert by viswa at 6:23pm
