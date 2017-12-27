@@ -23,5 +23,3 @@ After Merging added new line for branch at 7:57am
 Onece again afer merger, added to branch at 8:05am
 One more added to Branch by viswa at 12:27pm
 Saturday morning onto Master 
-stash example from hub
-git stash example
