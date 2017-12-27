@@ -31,3 +31,4 @@ one more test
 Wednesday Morning test for pre-commit
 one more at 8
 new test
+on wednesday
