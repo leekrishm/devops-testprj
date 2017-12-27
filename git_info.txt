@@ -30,3 +30,4 @@ pre-commit example test
 wednesday evening pre commit test
 new pre commit testing
 one more testing
+using shell example
