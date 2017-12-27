@@ -25,4 +25,3 @@ One more added to Branch by viswa at 12:27pm
 Saturday morning onto Master 
 stash example from hub
 git stash example
-Hooks Example on Tuesday 8:22pm
