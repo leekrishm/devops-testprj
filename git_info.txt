@@ -28,3 +28,4 @@ git stash example
 Hooks Example on Tuesday 8:22pm
 pre-commit example test
 one more test
+Wednesday Morning test for pre-commit
