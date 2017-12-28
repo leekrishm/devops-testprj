@@ -28,3 +28,4 @@ Adding data to second branch
 Merged to first_branch and added again to second_branch
 example on Thrusday
 tag 1 example
+git message example
